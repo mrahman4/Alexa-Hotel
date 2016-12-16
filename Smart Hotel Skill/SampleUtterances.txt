@@ -1,0 +1,19 @@
+AnswerIntent I want {Answer}
+AnswerIntent can I have {Answer}
+AnswerIntent {Answer} is my choice
+AnswerIntent {Answer} please
+AnswerOnlyIntent {Answer}
+
+AMAZON.StartOverIntent start menu
+AMAZON.StartOverIntent again
+AMAZON.StartOverIntent menu
+AMAZON.StartOverIntent start menu again
+
+DontKnowIntent i don't know
+DontKnowIntent don't know
+DontKnowIntent skip
+DontKnowIntent i don't know that
+DontKnowIntent who knows
+DontKnowIntent i don't know this question
+DontKnowIntent i don't know that one
+DontKnowIntent dunno
